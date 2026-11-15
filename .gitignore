@@ -1,0 +1,10 @@
+vendor/
+uploads/
+node_modules/
+db.php
+db.sql
+orphanage_db.sql
+*.log
+.env
+.DS_Store
+Thumbs.db
